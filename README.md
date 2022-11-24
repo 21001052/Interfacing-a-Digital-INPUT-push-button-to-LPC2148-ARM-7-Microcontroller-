@@ -1,7 +1,7 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
 ~~~
-Name : H.Syed Abdul Wasih
-Register No : 212221240057
+Name : Thamaraiselvan.V
+Register No : 212221230115
 Date of experiment : 06/10/2022
 
 Ex. No. : 3
